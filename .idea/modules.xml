@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/lab5.iml" filepath="$PROJECT_DIR$/.idea/lab5.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Director-s-Interface.iml" filepath="$PROJECT_DIR$/.idea/Director-s-Interface.iml" />
+>>>>>>> 0688efa (first commit)
     </modules>
   </component>
 </project>
